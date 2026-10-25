@@ -6,6 +6,6 @@ Previously, I was a software engineer at:
 
 I'm interested in machine learning, AI, and building full-stack software.
 
-📫 [LinkedIn](https://www.linkedin.com/in/gaurav12058) · 
-✉️ [Email](mailto:rothkumar12@gmail.com)
-🌐 [Portfolio](coming soon)
+📫 [LinkedIn](https://www.linkedin.com/in/gaurav12058)  
+✉️ [Email](mailto:rothkumar12@gmail.com)  
+🌐 [Portfolio](coming soon)  
