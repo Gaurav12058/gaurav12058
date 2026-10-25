@@ -1,7 +1,10 @@
-# Gaurav Kumar
+Hi, I'm Gaurav 👋 a fourth-year Computer Science & Engineering student at UCLA ('27).
 
-I’m a third-year Computer Science & Engineering student at UCLA (’27) with experience in full-stack development. Previously, I worked as a project manager at Property Risk Profile, a real estate startup focused on risk management solutions for property buyers.
+Previously, I was a software engineer at:
+- **AWS OpenSearch**: Amazon's managed search and analytics service, used for log analytics, site search, and real-time monitoring
+- **Property Risk Profile**: a real estate startup building risk management tools for property buyers
 
-I’ve built projects using React, Node.js, and IoT devices, and I’m proficient in Python, Java, and C++, with a strong foundation in algorithms and data structures. I’m seeking software engineering internships where I can help build scalable systems and contribute to impactful projects.
+I'm interested in machine learning, AI, and building full-stack software.
 
-Outside of coding, I enjoy lifting weights, playing tennis, and exploring new technologies.
+📫 [LinkedIn](https://www.linkedin.com/in/gaurav12058) · [Email](mailto:rothkumar12@gmail.com)
+🌐 Portfolio: coming soon
