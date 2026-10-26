@@ -6,4 +6,4 @@ I'm interested in machine learning, AI, and building full-stack software.
 
 📫 [LinkedIn](https://www.linkedin.com/in/gaurav12058)  
 ✉️ [Email](mailto:rothkumar12@gmail.com)  
-🌐 [Portfolio](coming soon)  
+🌐 [Portfolio](https://gaurav12058.github.io/)  
